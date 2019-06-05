@@ -29,7 +29,7 @@ publishDate: "2019-01-01T00:00:00Z"
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper37-poster-abstract.pdf
+url_pdf: '#'
 # url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
 # url_dataset: '#'
 # url_poster: '#'
