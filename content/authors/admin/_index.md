@@ -70,4 +70,4 @@ email: "fs5xz@virginia.edu"
 ---
 
 I am a Ph.D candidate at the Computer Science department of the University of Virginia.
-My advisor is [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in security and privacy issues in machine learning. Currently, I am working on designing query efficieny blakc-box attacks. 
+My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in security and privacy issues in machine learning. Currently, I am working on designing query efficieny blakc-box attacks. 
