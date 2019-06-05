@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: GlobalSIP
-publication_short: GlobalSIP
+# publication: GlobalSIP
+# publication_short: GlobalSIP
 
 # abstract:
 
@@ -62,7 +62,7 @@ image:
 # slides: example
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -72,3 +72,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
+ -->
