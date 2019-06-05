@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=OmLIG8EAAAAJ
@@ -70,4 +70,4 @@ email: "fs5xz@virginia.edu"
 ---
 
 I am a Ph.D candidate at the Computer Science department of the University of Virginia.
-My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in security and privacy issues in machine learning. Currently, I am working on designing query efficieny blakc-box attacks. 
+My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in security and privacy issues in machine learning. Currently, I am working on designing query efficient black-box attacks. 
