@@ -1,7 +1,7 @@
 ---
 title: "Improved Estimation of Cost of Black-box Attacks"
 authors:
-- Fnu Suya, Jianfeng Chi, David Evans, Yuan Tian, *under review* 
+- Fnu Suya, Jianfeng Chi, David Evans, Yuan Tian, the 29th Usenix Security Symposium (Usenix Security), 2020 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
