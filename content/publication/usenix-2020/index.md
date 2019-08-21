@@ -29,8 +29,8 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: '#'
-# url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
+url_pdf: http://arxiv.org/abs/1908.07000
+url_code: https://github.com/suyeecav/Hybrid-Attack
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
