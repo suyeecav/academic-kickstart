@@ -1,5 +1,5 @@
 ---
-title: "Scalable Attackon Graph Data by Injecting Vicious Nodes"
+title: "Scalable Attack on Graph Data by Injecting Vicious Nodes"
 authors:
 - Jihong Wang, Minnan Luo,Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng, Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 (ECML-PKDD 2020)
 doi: ""
