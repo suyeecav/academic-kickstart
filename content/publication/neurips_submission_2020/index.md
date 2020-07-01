@@ -1,5 +1,5 @@
 ---
-title: "Scalable Attack on Graph Data by Injecting Vicious Nodes"
+title: "Model-Targeted Poisoning Attacks: Provable Convergence and Certified Bounds"
 authors:
 - Fnu Suya, Saeed Mahloujifar, David Evans, Yuan Tian, Preprint
 doi: ""
