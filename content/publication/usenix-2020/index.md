@@ -2,7 +2,7 @@
 title: "Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries"
 authors:
 - Fnu Suya, Jianfeng Chi, David Evans, Yuan Tian. 
-- the 29th Usenix Security Symposium (Usenix Security), 2020. <span style="color:red">*Artifact Evaluated*</span>
+the 29th Usenix Security Symposium (Usenix Security), 2020. <span style="color:red">*Artifact Evaluated*</span>
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
