@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Hidden Privacy Settings in Mobile Apps"
 authors:
-- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan, **Fnu Suya**, Yuan Tian, Kai Chen, XiaoFeng Wang, Wei Zou, The 40th IEEE Symposium on Security and Privacy (**IEEE S&P 2019**)
+- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan, **Fnu Suya**, Yuan Tian, Kai Chen, XiaoFeng Wang, Wei Zou, The 40th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2019**)
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

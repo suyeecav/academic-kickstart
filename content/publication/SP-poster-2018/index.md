@@ -1,7 +1,7 @@
 ---
 title: "Poster: Adversaries Don’t Care About Averages: Batch Attacks on Black-Box Classifiers"
 authors:
-- **Fnu Suya**, David Evans, Yuan Tian, The 39th IEEE Symposium on Security and Privacy (**IEEE S&P 2018**).
+- **Fnu Suya**, David Evans, Yuan Tian, The 39th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2018**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
