@@ -1,7 +1,7 @@
 ---
 title: "Optimal Stochastic Power Control with Compressive CSI Acquisition for Cloud-RAN"
 authors:
-- **Fnu Suya**, Yuanming Shi, Bo Bai, Wei Chen, Jun Zhang, Khaled B. Letaief, Shidong Zhou, IEEE Global Conference on Signal and Information Processing 2016 (**GlobalSIP 2016**).
+- Fnu Suya, Yuanming Shi, Bo Bai, Wei Chen, Jun Zhang, Khaled B. Letaief, Shidong Zhou, IEEE Global Conference on Signal and Information Processing 2016 (**GlobalSIP 2016**).
 date: "2016-12-01T00:00:00Z"
 doi: ""
 
