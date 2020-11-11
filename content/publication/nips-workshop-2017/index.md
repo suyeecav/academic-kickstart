@@ -1,7 +1,7 @@
 ---
 title: Query-limited Black-box Attacks to Classifiers
 authors:
-- Fnu Suya, David Evans, Yuan Tian, Paolo Papotti, N(eur)IPS Workshop on Machine Learning and Computer Security (**MLSec 2017**).
+- __Fnu Suya__, David Evans, Yuan Tian, Paolo Papotti, N(eur)IPS Workshop on Machine Learning and Computer Security (**MLSec 2017**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
