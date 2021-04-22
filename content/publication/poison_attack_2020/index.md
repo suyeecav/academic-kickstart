@@ -1,7 +1,7 @@
 ---
-title: "Model-Targeted Poisoning Attacks: Provable Convergence and Certified Bounds"
+title: "Model-Targeted Poisoning Attacks with Provable Convergence"
 authors:
-- __Fnu Suya__, Saeed Mahloujifar, David Evans, Yuan Tian, __Preprint__
+- __Fnu Suya__, Saeed Mahloujifar, Anshuman Suri, David Evans, Yuan Tian, __Preprint__
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
