@@ -1,7 +1,7 @@
 ---
 title: "Model-Targeted Poisoning Attacks with Provable Convergence"
 authors:
-- __Fnu Suya__, Saeed Mahloujifar, Anshuman Suri, David Evans, Yuan Tian, __Preprint__
+- __Fnu Suya__, Saeed Mahloujifar, Anshuman Suri, David Evans, Yuan Tian, The Thirty-eighth International Conference on Machine Learning (**ICML 2021**)
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
