@@ -30,7 +30,7 @@ links:
 # - name: Hello
 #  url: http://example.org
 url_pdf: https: //uvasrg.github.io/poisoning/
-url_code: https: https://github.com/uvasrg/uvasrg.github.io/tree/master/poisoning
+# url_code: https: 
 # url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_dataset: '#'
 # url_poster: '#'
