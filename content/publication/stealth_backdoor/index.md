@@ -1,11 +1,11 @@
 ---
-title: "Scalable Attack on Graph Data by Injecting Vicious Nodes"
+title: "Stealthy Backdoors as Compression Artifacts"
 authors:
-- Jihong Wang, Minnan Luo, __Fnu Suya__, Jundong Li, Zijiang Yang, Qinghua Zheng, Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 (**ECML-PKDD 2020**).
+- Yulong Tian, __Fnu Suya__, Fengyuan Xu, David Evans. IEEE Transactions on Information Forensics and Security (**TIFS**), 2022.
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2021-04-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +29,10 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2004.13825
-url_code: https://github.com/wangjh-github/AFGSM
+url_pdf: https://arxiv.org/abs/2104.15129
+url_code: https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts
 # url_poster: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
-# url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
+url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

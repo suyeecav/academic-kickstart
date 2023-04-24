@@ -1,11 +1,11 @@
 ---
-title: "Poster: Adversaries Don’t Care About Averages: Batch Attacks on Black-Box Classifiers"
+title: "Manipulating Transfer Learning for Property Inference"
 authors:
-- __Fnu Suya__, David Evans, Yuan Tian, The 39th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2018**).
+- Yulong Tian, __Fnu Suya__, Anshuman Suri, Fengyuan Xu, David Evans. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (**CVPR 2023**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-05-01T00:00:00Z"
+publishDate: "2019-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +29,10 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper37-poster-abstract.pdf
-# url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
+url_pdf: https://arxiv.org/abs/2303.11643
+url_code: https://github.com/yulongt23/Transfer-Inference
+# url_poster: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
+# url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -70,4 +72,5 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
  -->

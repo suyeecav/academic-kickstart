@@ -1,12 +1,11 @@
 ---
-title: "Optimal Stochastic Power Control with Compressive CSI Acquisition for Cloud-RAN"
+title: "Poster: Adversaries Don’t Care About Averages: Batch Attacks on Black-Box Classifiers"
 authors:
-- __Fnu Suya__, Yuanming Shi, Bo Bai, Wei Chen, Jun Zhang, Khaled B. Letaief, Shidong Zhou, IEEE Global Conference on Signal and Information Processing 2016 (**GlobalSIP 2016**).
-date: "2016-12-01T00:00:00Z"
+- __Fnu Suya__, David Evans, Yuan Tian. The 39th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2018**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +29,8 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/abstract/document/7906068
-# url_code: '#'
+url_pdf: https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper37-poster-abstract.pdf
+# url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -71,5 +70,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
  -->

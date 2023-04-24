@@ -1,11 +1,11 @@
 ---
-title: "Demystifying Hidden Privacy Settings in Mobile Apps"
+title: Query-limited Black-box Attacks to Classifiers
 authors:
-- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan, __Fnu Suya__, Yuan Tian, Kai Chen, XiaoFeng Wang, Wei Zou, The 40th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2019**)
+- __Fnu Suya__, David Evans, Yuan Tian, Paolo Papotti. N(eur)IPS Workshop on Machine Learning and Computer Security (**MLSec 2017**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2019-01-01T00:00:00Z"
 # abstract:
 
 # Summary. An optional shortened abstract.
-# summary:
+summary:
 
 #tags:
 #- Source Themes
@@ -29,8 +29,8 @@ publishDate: "2019-01-01T00:00:00Z"
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: '#'
-# url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
+url_pdf: https://arxiv.org/pdf/1712.08713.pdf
+url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -70,4 +70,5 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
  -->

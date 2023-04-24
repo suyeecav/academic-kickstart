@@ -1,7 +1,7 @@
 ---
-title: "Model-Targeted Poisoning Attacks with Provable Convergence"
+title: "Scalable Attack on Graph Data by Injecting Vicious Nodes"
 authors:
-- __Fnu Suya__, Saeed Mahloujifar, Anshuman Suri, David Evans, Yuan Tian, The Thirty-eighth International Conference on Machine Learning (**ICML 2021**)
+- Jihong Wang, Minnan Luo, __Fnu Suya__, Jundong Li, Zijiang Yang, Qinghua Zheng. Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 (**ECML-PKDD 2020**).
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: http://arxiv.org/abs/2006.16469
-url_code: https://github.com/suyeecav/model-targeted-poisoning
+url_pdf: https://arxiv.org/abs/2004.13825
+url_code: https://github.com/wangjh-github/AFGSM
 # url_poster: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_dataset: '#'

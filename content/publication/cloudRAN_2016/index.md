@@ -1,7 +1,8 @@
 ---
-title: Query-limited Black-box Attacks to Classifiers
+title: "Optimal Stochastic Power Control with Compressive CSI Acquisition for Cloud-RAN"
 authors:
-- __Fnu Suya__, David Evans, Yuan Tian, Paolo Papotti, N(eur)IPS Workshop on Machine Learning and Computer Security (**MLSec 2017**).
+- __Fnu Suya__, Yuanming Shi, Bo Bai, Wei Chen, Jun Zhang, Khaled B. Letaief, Shidong Zhou. IEEE Global Conference on Signal and Information Processing 2016 (**GlobalSIP 2016**).
+date: "2016-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +30,8 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://arxiv.org/pdf/1712.08713.pdf
-url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7906068
+# url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

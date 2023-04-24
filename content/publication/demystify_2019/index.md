@@ -1,11 +1,11 @@
 ---
-title: "Stealthy Backdoors as Compression Artifacts"
+title: "Demystifying Hidden Privacy Settings in Mobile Apps"
 authors:
-- Yulong Tian, __Fnu Suya__, Fengyuan Xu, David Evans. __Preprint__.
+- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan, __Fnu Suya__, Yuan Tian, Kai Chen, XiaoFeng Wang, Wei Zou. The 40th IEEE Symposium on Security and Privacy (**IEEE S&amp;P 2019**)
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-05-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2019-05-01T00:00:00Z"
 # abstract:
 
 # Summary. An optional shortened abstract.
-summary:
+# summary:
 
 #tags:
 #- Source Themes
@@ -29,10 +29,8 @@ summary:
 links:
 # - name: Hello
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2104.15129
-url_code: https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts
-# url_poster: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
-url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
+url_pdf: '#'
+# url_code: https://github.com/suyeecav/Bayesian-Optimization-for-Classifier-Evasion
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -72,5 +70,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
  -->
