@@ -70,4 +70,9 @@ email: "fs5xz@virginia.edu"
 ---
 
 I am a Ph.D candidate at the Computer Science department of the University of Virginia.
-My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in studying the trustwothy aspects of machine learning models under contaminated data/model. 
+My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in studying the trustworthy aspects of machine learning models under contaminated data/model. 
+
+<span style="color:red">
+<strong>I am looking for research-scientist/post-doc positions.<strong>
+</span>
+
