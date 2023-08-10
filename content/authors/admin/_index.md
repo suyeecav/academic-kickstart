@@ -73,6 +73,6 @@ I am a Ph.D candidate at the Computer Science department of the University of Vi
 My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in studying the trustworthy aspects of machine learning models under contaminated data/model. 
 
 <span style="color:red">
-<strong>I am looking for research-scientist/post-doc positions.<strong>
+<strong>I am joining MC2, UMD as a Post-Doctoral Associate in September 2023, working with [Prof. Tudor Dumitraș](http://users.umiacs.umd.edu/~tdumitra/).<strong>
 </span>
 
