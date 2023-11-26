@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:suya@umd.edu"
+  link: "/#contact" # "mailto:suya@umd.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/suyafnu
@@ -63,7 +63,7 @@ email: "suya[at]umd.edu"
 highlight_name: true
 ---
 
-I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](https://cyber.umd.edu/about) at the [University of Maryland, College Park](https://umd.edu). I received my Ph.D. degree in Computer Science from the [University of Virginia](https://www.virginia.edu), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info) at UCLA. I am interested in machine learning for security and the trustworthy aspects of machine learning, especially in malicious training environments.
+I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](https://cyber.umd.edu/about) at the [University of Maryland, College Park](https://umd.edu). I received my Ph.D. degree in Computer Science from the [University of Virginia](https://www.virginia.edu), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info) at UCLA. I am interested in machine learning for security and the trustworthy aspects of machine learning, especially in malicious training environments. 
 
 <div class="alert alert-info" role="alert">
   I am seeking tenure-track faculty positions. Feel free to reach out if you find a match. 

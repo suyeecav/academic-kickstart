@@ -53,6 +53,7 @@ design:
 ## 2020
 
 - (August) I presented our paper on [hybrid batch attacks](https://www.usenix.org/conference/usenixsecurity20/presentation/suya) remotely at Usenix Security 2020!
+- (June) I started my research internship at [Bosch AI Center](https://www.bosch-ai.com)!
 - (June) Our paper on a scalable attack on GNN is accepted at ECML-PKDD 2020!
 
 ## 2019
