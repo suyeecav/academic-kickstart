@@ -11,18 +11,18 @@ publishDate: "2019-05-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-# publication_types: ["1"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: GlobalSIP
-# publication_short: GlobalSIP
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023*
+publication_short: In *CVPR 2023*
 
-# abstract:
+abstract: Transfer learning is a popular method for tuning pretrained (upstream) models for different downstream tasks using limited data and computational resources. We study how an adversary with control over an upstream model used in transfer learning can conduct property inference attacks on a victim's tuned downstream model. For example, to infer the presence of images of a specific individual in the downstream training set. We demonstrate attacks in which an adversary can manipulate the upstream model to conduct highly effective and specific property inference attacks (AUC score $> 0.9$), without incurring significant performance loss on the main task. The main idea of the manipulation is to make the upstream model generate activations (intermediate features) with different distributions for samples with and without a target property, thus enabling the adversary to distinguish between downstream models trained with and without training examples that have the target property.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: We introduce a technique to add trojans while pre-training the models, allowing significantly increased risks in infererring sensitive properties in the victim's downstream training data.
 
-#tags:
+tags: ["property inference", "distribution inference", "transfer learning", "model manipulation"]
 #- Source Themes
 #featured: true
 
@@ -30,7 +30,7 @@ links:
 # - name: Hello
 #  url: http://example.org
 url_pdf: https://arxiv.org/abs/2303.11643
-url_code: https://github.com/yulongt23/Transfer-Inference
+url_code: 'https://github.com/yulongt23/Manipulating-Transfer-Learning-for-Property-Inference'
 # url_poster: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_hi: https://jeffersonswheel.org/usenix-security-2020-hybrid-batch-attacks/
 # url_dataset: '#'
@@ -38,7 +38,7 @@ url_code: https://github.com/yulongt23/Transfer-Inference
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://youtu.be/n5Hgy4HNeZ0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
