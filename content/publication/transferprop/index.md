@@ -6,8 +6,8 @@ title: "Manipulating Transfer Learning for Property Inference"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Yulong Tian
-- Fnu Suya
 - admin
+- Anshuman Suri
 - Fengyuan Xu
 - David Evans
 
