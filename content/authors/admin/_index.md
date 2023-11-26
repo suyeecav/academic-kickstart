@@ -1,78 +1,80 @@
 ---
 # Display name
-name: Fnu Suya
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Anshuman Suri
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: PhD Candidate fs5xz[at]virginia.edu
+# Role/position/tagline
+role: PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: Computer Science Department University of Virginia
-  url: ""
+- name: University of Virginia
+  url: https://engineering.virginia.edu/departments/computer-science
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include privacy and security in machine learning.
 
+# Interests to show in About widget
 interests:
-- Adversarial Machine Learning
 - Machine Learning Privacy
+- Distribution/Property Inference
+- Adversarial Machine Learning
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: University of Virginia
-    year: 2017 - Present
-  - course: PhD in Computer Science
-    institution: Arizona State University
-    year: 2015 - 2017
-  - course: BEng in Eletronic Engineering
-    institution: China Agricultural University
-    year: 2010 - 2014
+    year: 2019-Present
+  - course: B.Tech (Hons) in Computer Science
+    institution: IIIT-Delhi
+    year: 2014-2018
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:fs5xz@virginia.edu"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=OmLIG8EAAAAJ
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/iamgroot42
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=JDp__3wAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/suyeecav
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+  link: https://github.com/iamgroot42
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/iamgroot42/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 # - icon: cv
-#  icon_pack: ai
-#  link: files/CV.pdf
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fs5xz@virginia.edu"
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
-# - Researchers
-# - Visitors
+email: "anshuman[at]virginia.edu"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-I obtained my PhD degree at the Computer Science department of the University of Virginia.
-My advisors are [Prof. David Evans](http://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info). I am interested in studying the trustworthy aspects of machine learning models under contaminated data/model. 
 
-<span style="color:red">
-<strong>I am joining MC2, UMD as a Post-Doctoral Associate in September 2023, working with [Prof. Tudor Dumitraș](http://users.umiacs.umd.edu/~tdumitra/).<strong>
-</span>
+I am a final year PhD candidate in the Computer Science Department at the [University of Virginia](https://www.virginia.edu/), advised by Professor [David Evans](http://www.cs.virginia.edu/~evans/). My primary area of research is privacy/security in machine learning, with a focus on distribution inference.
 
+<div class="alert alert-info" role="alert">
+  I am on the job market! Please reach out if you have any questions.
+</div>
+
+Materials:
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Research Statement.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Teaching Statement.pdf" "newtab" >}}Teaching Statement{{< /staticref >}}.
