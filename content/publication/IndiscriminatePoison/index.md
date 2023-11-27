@@ -49,7 +49,7 @@ tags: ["data poisoning attacks", "indiscriminate poisoning attacks", "variation 
 url_pdf: 'https://arxiv.org/abs/2307.01073'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://fsuya.org/publication/IndiscriminatePoison/mtp_poster.pptx'
 url_project: ''
 url_slides: ''
 url_source: ''
