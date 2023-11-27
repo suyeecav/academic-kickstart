@@ -1,5 +1,5 @@
 ---
-title: "Poster: Adversaries Donât Care About Averages: Batch Attacks on Black-Box Classifiers"
+title: "Poster: Adversaries Don't Care About Averages: Batch Attacks on Black-Box Classifiers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
