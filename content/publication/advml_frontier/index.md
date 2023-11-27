@@ -19,7 +19,7 @@ date: # "2016-07-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-07-28T00:00:00Z" # "2023-07-28T00:00:00Z" # hakcy way to display properly
+publishDate: "2018-07-28T00:00:00Z" # "2023-07-28T00:00:00Z" # hakcy way to display properly
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *New Frontiers in Adversarial Machine Learning, 2023*
-publication_short: In *AdvML 2023*
+publication_short: In *ICML AdvML Workshop 2023*
 
 abstract: We study indiscriminate poisoning for linear learners where an adversary injects a few crafted examples into the training data with the goal of forcing the induced model to incur higher test error. Inspired by the observation that linear learners on some datasets are able to resist the best known attacks even without any defenses, we further investigate whether datasets can be inherently robust to indiscriminate poisoning attacks for linear learners. For theoretical Gaussian distributions, we rigorously characterize the behavior of an optimal poisoning attack, defined as the poisoning strategy that attains the maximum risk of the induced model at a given poisoning budget. Our results prove that linear learners can indeed be robust to indiscriminate poisoning if the class-wise data distributions are well-separated with low variance and the size of the constraint set containing all permissible poisoning points is also small. These findings largely explain the drastic variation in empirical attack performance of the state-of-the-art poisoning attacks across benchmark datasets, making an important initial step towards understanding the underlying reasons some learning tasks are vulnerable to data poisoning attacks.
 

@@ -28,7 +28,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *N(eur)IPS Machine Learning and Computer Security Workshop, 2017*
-publication_short: In *N(eur)IPS MLSec 2017*
+publication_short: In *N(eur)IPS MLSec Workshop 2017*
 
 abstract: We study black-box attacks on machine learning classifiers where each query to the model incurs some cost or risk of detection to the adversary. We focus explicitly on minimizing the number of queries as a major objective. Specifically, we consider the problem of attacking machine learning classifiers subject to a budget of feature modification cost while minimizing the number of queries, where each query returns only a class and confidence score. We describe an approach that uses Bayesian optimization to minimize the number of queries, and find that the number of queries can be reduced to approximately one tenth of the number needed through a random strategy for scenarios where the feature modification cost budget is low.
 
