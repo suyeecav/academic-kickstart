@@ -72,6 +72,3 @@ I am a MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](http
 
 Application Materials:
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-Latest News:
-- We have paper accepted to SatML 2024!
