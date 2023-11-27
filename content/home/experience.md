@@ -16,7 +16,6 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# <!-- Previously, I obtained my Bachelor's degree in Computer Science from IIIT Delhi, where I worked at the PreCog research lab and IAB research lab. Post my graduation, I spent an amazing year at Microsoft India, working in STCI on amazing technologies around conversational agents and question-answering systems. -->
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
