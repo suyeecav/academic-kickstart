@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'pretrained model manipulation'
     category: ''
     publication_type: '1'
     author: ''
