@@ -24,7 +24,7 @@ main:
   #   url: '#posts'
   #   weight: 40
   - name: Experience
-    url:'experience' 
+    url: 'experience' 
     weight: 60
   - name: Contact
     url: '#contact'
