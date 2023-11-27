@@ -23,7 +23,6 @@ design:
   columns: "1"
 ---
 
-
 ## University of Virginia
 - Teaching Assistant:
   - CS 6501-005: Learning Theory
