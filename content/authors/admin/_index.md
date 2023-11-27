@@ -19,7 +19,7 @@ bio: My research interests include machine learning for security and trustworthy
 
 # Interests to show in About widget
 interests:
-- Adversarial Machine Learning
+- Trustworhy Machine Learning
 - Poisoning Attacks
 - Machine Learning for Security
 
