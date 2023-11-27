@@ -5,9 +5,9 @@ title: "Model-Targeted Poisoning Attacks with Provable Convergence"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fnu Suya
-- Saeed Mahloujifar
 - admin
+- Saeed Mahloujifar
+- Anshuman Suri
 - David Evans
 - Yuan Tian
 
@@ -35,9 +35,10 @@ publication_short: In *ICML, 2021*
 abstract: In a poisoning attack, an adversary with control over a small fraction of the training data attempts to select that data in a way that induces a corrupted model that misbehaves in favor of the adversary. We consider poisoning attacks against convex machine learning models and propose an efficient poisoning attack designed to induce a specified model. Unlike previous model-targeted poisoning attacks, our attack comes with provable convergence to <i>any</i> attainable target classifier. The distance from the induced classifier to the target classifier is inversely proportional to the square root of the number of poisoning points. We also provide a lower bound on the minimum number of poisoning points needed to achieve a given target classifier. Our method uses online convex optimization, so finds poisoning points incrementally. This provides more flexibility than previous attacks which require a priori assumption about the number of poisoning points. Our attack is the first model-targeted poisoning attack that provides provable convergence for convex models, and in our experiments, it either exceeds or matches state-of-the-art attacks in terms of attack success rate and distance to the target model.
 
 # Summary. An optional shortened abstract.
-summary: We propose a provably efficient poisoning attack to induce specificied target models.
+summary: We propose efficient data poisoning attacks that can asymptotically approach a target model with desired properties.
 
-tags: ["model poisoning"]
+
+tags: ["data poisoning attacks", "indiscriminate poisoning attacks", "subpopulation poisoning attacks", "provable convergence"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -50,9 +51,11 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2006.16469.pdf'
 url_code: 'https://github.com/suyeecav/model-targeted-poisoning'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://fsuya.org/publication/model-targeted-poisoning/mtp_poster.pptx'
 url_project: ''
-url_slides: ''
+url_slides: 'https://fsuya.org/publication/model-targeted-poisoning/mtp_slides.pdf'
+
+
 url_source: ''
 url_video: ''
 

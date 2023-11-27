@@ -35,9 +35,9 @@ publication_short: In *CVPR 2023*
 abstract: Transfer learning is a popular method for tuning pretrained (upstream) models for different downstream tasks using limited data and computational resources. We study how an adversary with control over an upstream model used in transfer learning can conduct property inference attacks on a victim's tuned downstream model. For example, to infer the presence of images of a specific individual in the downstream training set. We demonstrate attacks in which an adversary can manipulate the upstream model to conduct highly effective and specific property inference attacks (AUC score $> 0.9$), without incurring significant performance loss on the main task. The main idea of the manipulation is to make the upstream model generate activations (intermediate features) with different distributions for samples with and without a target property, thus enabling the adversary to distinguish between downstream models trained with and without training examples that have the target property.
 
 # Summary. An optional shortened abstract.
-summary: We introduce a technique to add trojans while pre-training models, allowing successful inference of properties of the victim's downstream training data.
+summary: We introduce a method to manipulate neuron activations while pre-training models, allowing highly successful inference of sensitive properties of the victim's downstream training data.
 
-tags: ["property inference", "distribution inference", "transfer learning"]
+tags: ["property inference", "distribution inference", "transfer learning","pretrained model manipulation"]
 
 # Display this page in the Featured widget?
 # featured: true
