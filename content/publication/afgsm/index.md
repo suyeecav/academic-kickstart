@@ -17,6 +17,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
+featured: false
+
 date: "2020-05-01T00:00:00Z"
 doi: ""
 
