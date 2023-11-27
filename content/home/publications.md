@@ -12,6 +12,8 @@ weight: 90
 title: Selected Publications
 subtitle: ''
 
+# played to hacky trick to play with the dates so that I list important publications there.
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -25,10 +27,9 @@ content:
   filters:
     tag:
     category: ''
-    publication_type: '1'
+    publication_type: ''
     author: ''
-    # exclude_featured: false
-    featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
