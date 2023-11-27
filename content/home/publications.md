@@ -27,7 +27,8 @@ content:
     category: ''
     publication_type: '1'
     author: ''
-    exclude_featured: false
+    # exclude_featured: false
+    featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
