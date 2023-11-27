@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Featured Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'pretrained model manipulation'
+    tag:
     category: ''
     publication_type: '1'
     author: ''

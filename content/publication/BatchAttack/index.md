@@ -14,6 +14,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
+featured: true
+
 date:  "2018-05-01T00:00:00Z"
 doi: ""
 

@@ -11,6 +11,8 @@ authors:
 - David Evans
 - Yuan Tian
 
+featured: true
+
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
