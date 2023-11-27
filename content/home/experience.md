@@ -32,7 +32,7 @@ experience:
     location: Maryland, USA
     date_start: '2023-10-02'
     date_end: ''
-    description: Machine learning for security, collaborating with [Tudor Group](http://users.umiacs.umd.edu/~tdumitra/).
+    description: Research on machine learning for security, collaborating with the [Tudor Group](http://users.umiacs.umd.edu/~tdumitra/).
 
   - title: Graduate Research Assistant
     company: University of Virginia

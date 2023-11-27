@@ -12,6 +12,7 @@ role: MC2 Postdoctoral Fellow
 organizations:
 - name: University of Maryland College Park
   url: https://www.cs.umd.edu
+- name: lastname[at]umd[dot]edu 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning for security and trustworthy machine learning.
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "/#contact" # "mailto:suya@umd.edu"
+  link: "mailto:suya@umd.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/suyafnu

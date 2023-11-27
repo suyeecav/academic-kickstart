@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Featured Publications
 subtitle: ''
 
 content:
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '1'
     author: ''
     exclude_featured: false
 design:
