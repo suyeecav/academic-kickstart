@@ -13,13 +13,16 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: Teaching
+    url: '#teaching'
+    weight: 40
   # suya deleted below as currently there is no useful posts
   # - name: Posts
   #   url: '#posts'
   #   weight: 40
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
