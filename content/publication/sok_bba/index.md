@@ -38,7 +38,7 @@ abstract: "Numerous works study black-box attacks on image classifiers, where ad
 # Summary. An optional shortened abstract.
 summary: We propose a taxonomy to categorize and better understand black-box attacks revealing unexplored threat spaces and other interesting findings, and emphasize the need to consider resource costs like attack runtime to evaluating attacks.
 
-tags: ["black-box attacks", "adversarial attacks", "attack taxonomy"]
+tags: ["black-box attacks", "attack taxonomy"]
 
 # Display this page in the Featured widget?
 featured: false

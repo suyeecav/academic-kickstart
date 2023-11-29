@@ -70,5 +70,4 @@ I am a MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](http
   I am seeking tenure-track faculty positions. Feel free to reach out if you find a match. 
 </div>
 
-Application Materials:
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

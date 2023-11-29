@@ -35,7 +35,7 @@ abstract: We study black-box attacks on machine learning classifiers where each 
 # Summary. An optional shortened abstract.
 summary: We apply Bayesian optimization technique to design query efficient black-box attacks.
 
-tags: ["black-box attacks", "Bayesna optimization", "query based attacks"]
+tags: ["black-box attacks", "bayesian optimization", "query based attacks"]
 
 # Display this page in the Featured widget?
 # featured: true
