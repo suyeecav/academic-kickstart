@@ -67,7 +67,7 @@ experience:
     location: Pittsburgh, USA (remote)
     date_start: '2020-06-02'
     date_end: '2020-08-21'
-    description: Worked on making AI-powered game bots, part of Bing STCI.
+    description: Worked on query efficient black-box attacks on vision classifiers. 
 
 design:
   columns: '2'
