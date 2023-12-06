@@ -71,3 +71,5 @@ I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](htt
 </div>
 
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Research Statement.pdf" "newtab" >}}CV{{< /staticref >}}.
+- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Teaching Statement.pdf" "newtab" >}}CV{{< /staticref >}}.
