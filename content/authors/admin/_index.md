@@ -70,7 +70,11 @@ I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](htt
   I am seeking tenure-track faculty positions. Feel free to reach out if you find a match. 
 </div>
 
+**News:**
+- Our paper is accepted to IEEE SaTML 2024, see you in Toronto!
+
 Materials:
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Research Statement.pdf" "newtab" >}}Research Statement{{< /staticref >}}.
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Teaching Statement.pdf" "newtab" >}}Teaching Statement{{< /staticref >}}.
+
