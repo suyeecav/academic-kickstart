@@ -26,6 +26,7 @@ design:
 
 ## 2023
 
+- (December) My first [SoK paper](https://arxiv.org/abs/2310.17534) on proper evaluation of black-box attacks to generate adversarial examples has been accepted to IEEE SaTML 2024. See you in Toronto!
 - (November) I am recognized as [top reviewer](https://nips.cc/Conferences/2023/ProgramCommittee#top-reviewers) at NeurIPS 2023 with complimentary registration!
 - (October) Officially started my job as an MC2 postdoctoral fellow at the Maryland Cybersecurity Center at the University of Maryland, College Park!
 - (September) Our paper on [understanding the impact of data distributions on poisoning effectiveness](https://arxiv.org/abs/2307.01073) is accepted at NeurIPS 2023. See you in New Orleans!

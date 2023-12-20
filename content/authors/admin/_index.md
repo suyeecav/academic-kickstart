@@ -71,7 +71,7 @@ I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](htt
 </div>
 
 **News:**
-- Our paper is accepted to IEEE SaTML 2024, see you in Toronto!
+- My first SoK paper is accepted to IEEE SaTML 2024, see you in Toronto!
 
 Materials:
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
