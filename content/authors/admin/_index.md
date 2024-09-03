@@ -6,13 +6,13 @@ title: Fnu Suya
 superuser: true
 
 # Role/position/tagline
-role: MC2 Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland College Park
-  url: https://www.cs.umd.edu
-- name: lastname[at]umd[dot]edu 
+- name: EECS@University of Tennessee, Knoxville
+  url: https://www.eecs.utk.edu
+- name: suya[at]utk[dot]edu 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning for security and trustworthy machine learning.
@@ -20,7 +20,6 @@ bio: My research interests include machine learning for security and trustworthy
 # Interests to show in About widget
 interests:
 - Trustworhy Machine Learning
-- Poisoning Attacks
 - Machine Learning for Security
 
 # Education to show in About widget
@@ -28,13 +27,10 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: University of Virginia
-    year: 2017-2023
-  - course: Ph.D. in Computer Science (discontinued due to advisor relocation)
-    institution: Arizona State University
-    year: 2015-2017
+    # year: 2017-2023
   - course: B.Eng. (Honors) in Electrical Engineering
     institution: China Agricultural University
-    year: 2010-2014    
+    # year: 2010-2014    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,13 +60,13 @@ email: "suya[at]umd.edu"
 highlight_name: true
 ---
 
-I am an MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](https://cyber.umd.edu/about) at the [University of Maryland, College Park](https://umd.edu). I received my Ph.D. degree in Computer Science from the [University of Virginia](https://www.virginia.edu), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info) at UCLA. I am interested in machine learning for security and the trustworthy aspects of machine learning, especially in malicious training environments. 
+I am a tenure-track Assistant Professor in [the Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu) at [the University of Tennessee, Knoxville](https://www.utk.edu). From Oct 2023 to July 2024, I was a MC2 Postdoctoral Fellow at the [Maryland Cybersecurity Center (MC2)](https://cyber.umd.edu/about) at the [University of Maryland, College Park](https://umd.edu). I received my Ph.D. degree in Computer Science from the [University of Virginia](https://www.virginia.edu), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) and [Prof. Yuan Tian](https://www.ytian.info) at UCLA. I am interested in machine learning for security and the trustworthy aspects of machine learning, especially in malicious training environments. 
 
-<span style="color: blue;">I am joining [the Min H. Kao Department of Electrical Engineering and Computer Science](https://www.eecs.utk.edu) at [the University of Tennessee, Knoxville](https://www.utk.edu) as a tenure-track Assistant Professor in Fall 2024. I am looking for self-motivated students to work on trustworthy machine learning and machine learning for security. If you are interested, please fill out the [questionnaire](https://forms.gle/MreMbVMhwoE7fiHC6) and send me an email.   
+<span style="color: blue;">I am looking for self-motivated students to work on trustworthy machine learning and machine learning for security. If you are interested, please fill out the [questionnaire](https://forms.gle/MreMbVMhwoE7fiHC6) and send me an email at suya[at]utk[dot]edu.   
 </span>
 
 **News:**
-- My first SoK paper is accepted to IEEE SaTML 2024, see you in Toronto!
+- Started my new role as an assistant professor. I will be teaching "Intro to Cybersecurity" this fall!
 
 Materials:
 - {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
