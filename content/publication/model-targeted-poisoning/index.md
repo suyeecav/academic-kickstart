@@ -41,7 +41,7 @@ summary: We propose efficient data poisoning attacks that can asymptotically app
 tags: ["data poisoning attacks", "indiscriminate poisoning attacks", "subpopulation poisoning attacks", "provable convergence"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

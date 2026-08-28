@@ -39,7 +39,7 @@ summary: We present a novel threat model in which adversaries inject stealthy ba
 tags: ["backdoor attacks", "model compression", "pretrained model manipulation"]
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

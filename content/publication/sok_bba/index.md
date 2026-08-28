@@ -41,7 +41,7 @@ summary: We propose a taxonomy to categorize and better understand black-box att
 tags: ["black-box attacks", "attack taxonomy"]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

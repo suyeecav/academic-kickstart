@@ -39,7 +39,7 @@ summary: We demonstrated that some data distributions can be inherently robust t
 tags: ["data poisoning attacks", "indiscriminate poisoning attacks", "variation in susceptibility"]
 
 # Display this page in the Featured widget?
-# featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

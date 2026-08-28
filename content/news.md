@@ -24,6 +24,17 @@ design:
 ---
 
 
+## 2026
+
+- (August) Our paper on [HAMLOCK](https://www.usenix.org/conference/usenixsecurity26/presentation/amgain), a hardware-model combined backdoor attack, is accepted to USENIX Security 2026!
+- (July) New preprint on [(A)iSpy](https://arxiv.org/abs/2607.17550), a parasitic Trojan that lives inside the machine learning runtime itself.
+- (June) Our paper on [adversarial hubness in multi-modal retrieval](https://arxiv.org/abs/2412.14113) is accepted to IEEE S&P 2026!
+- (February) Our paper on [DASH](https://arxiv.org/abs/2508.13309), a meta-attack framework for perceptually aligned adversarial examples, is accepted to CVPR 2026!
+
+## 2024
+
+- (August) Started as a tenure-track Assistant Professor in the Min H. Kao Department of EECS at the University of Tennessee, Knoxville!
+
 ## 2023
 
 - (December) My first [SoK paper](https://arxiv.org/abs/2310.17534) on proper evaluation of black-box attacks to generate adversarial examples has been accepted to IEEE SaTML 2024. See you in Toronto!
